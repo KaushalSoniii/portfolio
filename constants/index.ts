@@ -288,5 +288,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/KaushalSoniii",
+  sourceCode: "https://github.com/KaushalSoniii/portfolio",
 };
