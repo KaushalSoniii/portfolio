@@ -204,7 +204,7 @@ export const PROJECTS = [
     description:
       'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
     image: "/projects/projectP2.png",
-    link: "https://example.com",
+    link: "https://portfolio-tawny-beta-79.vercel.app/",
   },
 ] as const;
 
