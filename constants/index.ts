@@ -241,7 +241,7 @@ export const FOOTER_DATA = [
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://twitter.com",
+        link: "https://twitter.com/kaushal_soni_3",
       },
       {
         name: "Linkedin",
