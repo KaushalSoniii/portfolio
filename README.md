@@ -5,7 +5,7 @@
 
 ## :bangbang: Folder Structure
 
- Here is the folder structure of this app.
+ Here is the folder structure of this app. 
 
 ```bash
 space-portfolio/
